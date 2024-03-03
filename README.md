@@ -13,13 +13,13 @@ While using this site, you can handle your book sales smoothly, allowing you to 
 
 Thanks to the wonderful website interface that provides you with statistics for your book sales, you can do the following :-
 
-Enter the data of the books you have and manage them in terms of price, name, and many other characteristics .
+- Enter the data of the books you have and manage them in terms of price, name, and many other characteristics .
 
-You can delete and modify books that you have previously created .
+- You can delete and modify books that you have previously created .
 
-Know the statistics of your profits, whether they are from sold books or rented books .
+- Know the statistics of your profits, whether they are from sold books or rented books .
 
-Create classifications for each type of books and modify them as you wish .
+- Create classifications for each type of books and modify them as you wish .
 
 All this and more through the site that allows you to deal without any difficulty to facilitate the process of managing your book sales system .
 
