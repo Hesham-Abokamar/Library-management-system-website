@@ -7,7 +7,7 @@
 A website for an electronic library management system for selling books
 
 # Features
-It is important for everyone to manage their sales and business, so I created a system for managing library sales 
+It is important for everyone to manage his sales and business, so I created a system for managing library sales 
 
 While using this site, you can handle your book sales smoothly, allowing you to follow up on your customers purchases
 
